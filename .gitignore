@@ -1,0 +1,41 @@
+# Build and IDE output
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Test and coverage output
+**/TestResults/
+coverage/
+coverage.*
+*.coverage
+*.coveragexml
+
+# Runtime document storage and local build output
+# Uploaded runtime files live in the API's Storage folder alongside storage code.
+**/Storage/*.pdf
+**/Storage/*.png
+**/Storage/*.jpg
+**/Storage/*.jpeg
+**/Storage/**/*.pdf
+**/Storage/**/*.png
+**/Storage/**/*.jpg
+**/Storage/**/*.jpeg
+artifacts/
+_testbuild/
+_solutionbuild/
+
+# Logs, temporary files, and local secrets
+*.log
+*.tmp
+.env
+.env.*
+!.env.example
+**/secrets.json
+**/appsettings.*.local.json
+*.pfx
+*.p12
+*.key
+*.pem
