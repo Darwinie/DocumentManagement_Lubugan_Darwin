@@ -1,6 +1,6 @@
-# Document Management REST API
+# DocumentManagement_Lubugan_Darwin
 
-**GitHub repository name:** `DocumentManagement_Lubugan_Darwin`
+## Document Management REST API
 
 ## 1. Project Overview
 
